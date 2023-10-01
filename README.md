@@ -1,5 +1,6 @@
 # Badges
- This is the Achievement Badges of pbscybsec member
+ This is the Achievement Badges of pbscybsec member.
+ "Unlock the potential within you. Every challenge you face is an opportunity to grow stronger. Together, we defend the digital world. Stay motivated, keep learning, and let your skills shine in the world of cybersecurity"
 
 ## On the basis of club role
 <table>
