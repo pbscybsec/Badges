@@ -144,7 +144,7 @@
 <td>5</td>
 <td>Conference Speaker</td>
 <td>For the member who have spoken at cybsersecurity conferences.</td>
-<td><img src="badges/conferences.svg" width="90" height="90"></td>
+<td><img src="https://pbscybsec.github.io/Badges/badges/conferences.svg" width="90" height="90"></td>
 </tr>
 <tr>
 <td>6</td>
