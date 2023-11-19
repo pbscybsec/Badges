@@ -104,42 +104,42 @@ This is the Achievement Badges of pbscybsec member.
 <td>Shield Bearer[0x7]</td>
 <td>3,000</td>
 <td>Recognized for exceptional defense strategies.</td>
-<td><img src="badges/"></td>
+<td><img src="badges/0X7.svg"></td>
 </tr>
 <tr>
 <td>8</td>
 <td>Cyber Seeker: 0x8[Hacker]</td>
 <td>4,000</td>
 <td>Navigating cyberspace with curiosity and skill.</td>
-<td><img src="badges/"></td>
+<td><img src="badges/0x8.svg" width="100" height="100"></td>
 </tr>
 <tr>
 <td>9</td>
 <td>Cyber Explorer: 0x9[Omni]</td>
 <td>8,000</td>
 <td> Exploring diverse facets of cybersecurity.</td>
-<td><img src="badges/"></td>
+<td><img src="badges/0x9.svg"></td>
 </tr>
 <tr>
 <td>10</td>
 <td>Code Sorcerer: 0xA[Wizard]</td>
 <td>12,000</td>
 <td>Mastering the art of coding and enchanting security.</td>
-<td><img src="badges/0xA.svg" width="100" height="100"></td>
+<td><img src="badges/0xA.svg"></td>
 </tr>
 <tr>
 <td>11</td>
 <td>Cyber Maestro: 0xB[Master]</td>
 <td>15,000</td>
 <td>Commanding cybersecurity expertise with finesse.</td>
-<td><img src="badges/></td>
+<td><img src="badges/0xB.svg"></td>
 </tr>
 <tr>
 <td>12</td>
 <td>Infosec Guru: 0xC[Guru]</td>
 <td>17,000</td>
 <td>Respected for deep knowledge and mentorship.</td>
-<td><img src="badges/"></td>
+<td><img src="badges/0xC.svg"></td>
 </tr>
 <tr>
 <td>13</td>
